@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_default_cover
+drawable ic_media_play_arrow
+drawable ic_media_skip_next
+drawable ic_pause
+drawable ic_play_arrow
+drawable ic_skip_next
+drawable ic_skip_prev
+drawable playing_dot
+id album_name
+id playing_indicator
+id root
+id song_album_tag
+id song_cover
+id song_duration
+id song_title
+id webview
+layout activity_main
+layout item_album_header
+layout item_song
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme

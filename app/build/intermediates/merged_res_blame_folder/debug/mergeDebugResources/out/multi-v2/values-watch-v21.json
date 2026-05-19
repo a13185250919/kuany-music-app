@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kuany.music.app-mergeDebugResources-24:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\KuAny\\.gradle\\caches\\8.14\\transforms\\7a017b7abbd7a057bfdb2533efd41d00\\transformed\\appcompat-1.7.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
